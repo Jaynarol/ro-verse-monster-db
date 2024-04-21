@@ -1,0 +1,4008 @@
+[
+  {
+    "map_id": "alde_dun",
+    "map_name": "Al De Baran Dungeon",
+    "dungeons": [
+      {
+        "field": "alde_dun01",
+        "field_name": "Clock Tower B1f",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1111,
+            "name": "Drainliar",
+            "amount": 47,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "alde_dun02",
+        "field_name": "Clock Tower B2f",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1213,
+            "name": "High Orc",
+            "amount": 50,
+            "respawn": 5000,
+            "level": 81,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1211,
+            "name": "Brilight",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 71,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1194,
+            "name": "Arclouze",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 107,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1189,
+            "name": "Orc Archer",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 78,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "alde_dun03",
+        "field_name": "Clock Tower B3f",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1216,
+            "name": "Penomena",
+            "amount": 85,
+            "respawn": 5000,
+            "level": 85,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1209,
+            "name": "Cramp",
+            "amount": 56,
+            "respawn": 5000,
+            "level": 82,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1111,
+            "name": "Drainliar",
+            "amount": 55,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "alde_dun04",
+        "field_name": "Clock Tower B4f",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1102,
+            "name": "Bathory",
+            "amount": 57,
+            "respawn": 5000,
+            "level": 86,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1179,
+            "name": "Whisper",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 46,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1131,
+            "name": "Joker",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "ama_dun",
+    "map_name": "Amatsu Dungeon",
+    "dungeons": [
+      {
+        "field": "ama_dun01",
+        "field_name": "Tatami Maze",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1403,
+            "name": "Firelock Soldier",
+            "amount": 63,
+            "respawn": 5000,
+            "level": 88,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1401,
+            "name": "Shinobi",
+            "amount": 2,
+            "respawn": 5000,
+            "level": 95,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ama_dun02",
+        "field_name": "Battle Field in the Underground Forest",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1402,
+            "name": "Poisonous Toad",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 87,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1403,
+            "name": "Firelock Soldier",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 88,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1129,
+            "name": "Horong",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1404,
+            "name": "Miyabi Doll",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 85,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1401,
+            "name": "Shinobi",
+            "amount": 2,
+            "respawn": 5000,
+            "level": 95,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1375,
+            "name": "The Paper",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 97,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ama_dun03",
+        "field_name": "Amatsu Underground Shrine",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1401,
+            "name": "Shinobi",
+            "amount": 65,
+            "respawn": 5000,
+            "level": 95,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1405,
+            "name": "Tengu",
+            "amount": 65,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1403,
+            "name": "Firelock Soldier",
+            "amount": 29,
+            "respawn": 5000,
+            "level": 88,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1375,
+            "name": "The Paper",
+            "amount": 23,
+            "respawn": 5000,
+            "level": 97,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1191,
+            "name": "Mimic",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 56,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1404,
+            "name": "Miyabi Doll",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 85,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1492,
+            "name": "Samurai Specter",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 100,
+            "element": "Dark",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "ayo_dun",
+    "map_name": "Ayothaya Dungeon",
+    "dungeons": [
+      {
+        "field": "ayo_dun01",
+        "field_name": "Ancient Shrine Maze",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1036,
+            "name": "Ghoul",
+            "amount": 48,
+            "respawn": 5000,
+            "level": 61,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1179,
+            "name": "Whisper",
+            "amount": 16,
+            "respawn": 5000,
+            "level": 46,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1587,
+            "name": "Kraben",
+            "amount": 8,
+            "respawn": 5000,
+            "level": 70,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ayo_dun02",
+        "field_name": "Inside Ancient Shrine",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1584,
+            "name": "Tamruan",
+            "amount": 116,
+            "respawn": 5000,
+            "level": 73,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1179,
+            "name": "Whisper",
+            "amount": 23,
+            "respawn": 5000,
+            "level": 46,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1587,
+            "name": "Kraben",
+            "amount": 23,
+            "respawn": 5000,
+            "level": 70,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1688,
+            "name": "Lady Tanee",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 80,
+            "element": "Wind",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "beach_dun",
+    "map_name": "Beach Dungeon",
+    "dungeons": [
+      {
+        "field": "beach_dun",
+        "field_name": "Karu, the West cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1255,
+            "name": "Nereid",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1256,
+            "name": "Pest",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 89,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1264,
+            "name": "Merman",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 60,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1583,
+            "name": "Tao Gunka",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 110,
+            "element": "Neutral",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      },
+      {
+        "field": "beach_dun2",
+        "field_name": "Ruande the northern cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1278,
+            "name": "Stalactic Golem",
+            "amount": 65,
+            "respawn": 5000,
+            "level": 68,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1279,
+            "name": "Tri Joint",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1274,
+            "name": "Megalith",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 65,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1255,
+            "name": "Nereid",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "beach_dun3",
+        "field_name": "Mao, the East Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1034,
+            "name": "Thara Frog",
+            "amount": 50,
+            "respawn": 5000,
+            "level": 40,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1064,
+            "name": "Megalodon",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 46,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1255,
+            "name": "Nereid",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "ein_dun",
+    "map_name": "Einbech Mine Dungeon",
+    "dungeons": [
+      {
+        "field": "ein_dun01",
+        "field_name": "Mine Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1620,
+            "name": "Noxious",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 87,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1619,
+            "name": "Porcellio",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 85,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1621,
+            "name": "Venomous",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 87,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1617,
+            "name": "Old Stove",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 92,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1618,
+            "name": "Ungoliant",
+            "amount": 1,
+            "respawn": 3600000,
+            "level": 94,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ein_dun02",
+        "field_name": "Mine Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1614,
+            "name": "Mineral",
+            "amount": 50,
+            "respawn": 5000,
+            "level": 96,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1615,
+            "name": "Obsidian",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 97,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1617,
+            "name": "Old Stove",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 92,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1622,
+            "name": "Teddy Bear",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 91,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1623,
+            "name": "RSX-0806",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 100,
+            "element": "Neutral",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "gef_dun",
+    "map_name": "Geffen Dungeon",
+    "dungeons": [
+      {
+        "field": "gef_dun00",
+        "field_name": "Geffen Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1077,
+            "name": "Poison Spore",
+            "amount": 25,
+            "respawn": 5000,
+            "level": 26,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1031,
+            "name": "Poporing",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 30,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 12,
+            "respawn": 300000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1081,
+            "name": "Yellow Plant",
+            "amount": 1,
+            "respawn": 300000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1080,
+            "name": "Green Plant",
+            "amount": 1,
+            "respawn": 300000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1083,
+            "name": "Shining Plant",
+            "amount": 1,
+            "respawn": 3000000,
+            "level": 1,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 6,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "gef_dun01",
+        "field_name": "Geffen Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1036,
+            "name": "Ghoul",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 61,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1130,
+            "name": "Jakk",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 63,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1061,
+            "name": "Nightmare",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 69,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1015,
+            "name": "Zombie",
+            "amount": 25,
+            "respawn": 5000,
+            "level": 17,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1111,
+            "name": "Drainliar",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1389,
+            "name": "Dracula",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 75,
+            "element": "Dark",
+            "is_boss": true,
+            "is_mvp": true
+          },
+          {
+            "id": 1079,
+            "name": "Blue Plant",
+            "amount": 1,
+            "respawn": 300000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 5,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 10,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "gef_dun02",
+        "field_name": "Geffenia",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1109,
+            "name": "Deviruchi",
+            "amount": 45,
+            "respawn": 5000,
+            "level": 93,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1143,
+            "name": "Marionette",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1061,
+            "name": "Nightmare",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 69,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1179,
+            "name": "Whisper",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 46,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1036,
+            "name": "Ghoul",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 61,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1035,
+            "name": "Hunter Fly",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 63,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1046,
+            "name": "Doppelganger",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 77,
+            "element": "Dark",
+            "is_boss": true,
+            "is_mvp": true
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 12,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1083,
+            "name": "Shining Plant",
+            "amount": 2,
+            "respawn": 1800000,
+            "level": 1,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "glastheim",
+    "map_name": "Glast Heim",
+    "dungeons": [
+      {
+        "field": "gl_dun01",
+        "field_name": "The Lowest Cave in Glast Heim",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1207,
+            "name": "Sting",
+            "amount": 43,
+            "respawn": 5000,
+            "level": 104,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "gl_dun02",
+        "field_name": "The Lowest Cave in Glast Heim",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1310,
+            "name": "Majoruros",
+            "amount": 52,
+            "respawn": 5000,
+            "level": 107,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1253,
+            "name": "Gargoyle",
+            "amount": 17,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "gld_re",
+    "map_name": "Renewal Guild",
+    "dungeons": [
+      {
+        "field": "gld_dun01",
+        "field_name": "Greenwood Lake Guild Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1306,
+            "name": "Leib Olmai",
+            "amount": 55,
+            "respawn": 5000,
+            "level": 118,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1307,
+            "name": "Cat o' Nine Tails",
+            "amount": 3,
+            "respawn": 1200000,
+            "level": 79,
+            "element": "Fire",
+            "is_boss": true,
+            "is_mvp": false
+          },
+          {
+            "id": 1150,
+            "name": "Moonlight Flower",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 79,
+            "element": "Fire",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      },
+      {
+        "field": "gld_dun02",
+        "field_name": "Greenwood Lake Guild Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1303,
+            "name": "Giant Hornet",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 120,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1305,
+            "name": "Ancient Worm",
+            "amount": 25,
+            "respawn": 5000,
+            "level": 121,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1304,
+            "name": "Giant Spider",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 117,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1059,
+            "name": "Mistress",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 78,
+            "element": "Wind",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      },
+      {
+        "field": "gld_dun03",
+        "field_name": "Valkyrie Guild Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1300,
+            "name": "Caterpillar",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 121,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1293,
+            "name": "Creamy Fear",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 117,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1039,
+            "name": "Baphomet",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 81,
+            "element": "Dark",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      },
+      {
+        "field": "gld_dun04",
+        "field_name": "Britoniah Guild Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1292,
+            "name": "Mini Demon",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 117,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1298,
+            "name": "Zombie Master",
+            "amount": 55,
+            "respawn": 5000,
+            "level": 119,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1291,
+            "name": "Wraith Dead",
+            "amount": 25,
+            "respawn": 5000,
+            "level": 121,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1120,
+            "name": "Ghostring",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 90,
+            "element": "Ghost",
+            "is_boss": true,
+            "is_mvp": false
+          },
+          {
+            "id": 1046,
+            "name": "Doppelganger",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 77,
+            "element": "Dark",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "gon_dun",
+    "map_name": "Kunlun Dungeon",
+    "dungeons": [
+      {
+        "field": "gon_dun01",
+        "field_name": "Shrine of Kunlun Queen",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1410,
+            "name": "Enchanted Peach Tree",
+            "amount": 38,
+            "respawn": 5000,
+            "level": 92,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1417,
+            "name": "Zipper Bear",
+            "amount": 33,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1081,
+            "name": "Yellow Plant",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "gon_dun02",
+        "field_name": "Hermit's Checkers",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1410,
+            "name": "Enchanted Peach Tree",
+            "amount": 27,
+            "respawn": 5000,
+            "level": 92,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1412,
+            "name": "Taoist Hermit",
+            "amount": 26,
+            "respawn": 5000,
+            "level": 96,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1408,
+            "name": "Bloody Butterfly",
+            "amount": 26,
+            "respawn": 5000,
+            "level": 94,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1415,
+            "name": "Baby Leopard",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 68,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1081,
+            "name": "Yellow Plant",
+            "amount": 13,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "gon_dun03",
+        "field_name": "Arcadia",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1416,
+            "name": "Evil Nymph",
+            "amount": 67,
+            "respawn": 5000,
+            "level": 97,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1412,
+            "name": "Taoist Hermit",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 96,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1413,
+            "name": "Hermit Plant",
+            "amount": 26,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1418,
+            "name": "Evil Snake Lord",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 105,
+            "element": "Ghost",
+            "is_boss": true,
+            "is_mvp": true
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 13,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "ice_dun",
+    "map_name": "Ice Dungeon",
+    "dungeons": [
+      {
+        "field": "ice_dun01",
+        "field_name": "Ice Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1782,
+            "name": "Roween",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 95,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1780,
+            "name": "Muscipular",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 105,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1778,
+            "name": "Gazeti",
+            "amount": 2,
+            "respawn": 5000,
+            "level": 106,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ice_dun02",
+        "field_name": "Ice Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1775,
+            "name": "Snowier",
+            "amount": 70,
+            "respawn": 5000,
+            "level": 103,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1776,
+            "name": "Siroma",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1789,
+            "name": "Iceicle",
+            "amount": 19,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1778,
+            "name": "Gazeti",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 106,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1777,
+            "name": "Ice Titan",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 110,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ice_dun03",
+        "field_name": "Ice Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1777,
+            "name": "Ice Titan",
+            "amount": 70,
+            "respawn": 5000,
+            "level": 110,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1778,
+            "name": "Gazeti",
+            "amount": 42,
+            "respawn": 5000,
+            "level": 106,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1789,
+            "name": "Iceicle",
+            "amount": 32,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1775,
+            "name": "Snowier",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 103,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "iz_dun",
+    "map_name": "Byalan Dungeon",
+    "dungeons": [
+      {
+        "field": "iz_dun00",
+        "field_name": "Undersea Tunnel",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1141,
+            "name": "Marina",
+            "amount": 61,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1066,
+            "name": "Vadon",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 45,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1070,
+            "name": "Kukre",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 6,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "iz_dun01",
+        "field_name": "Undersea Tunnel",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1066,
+            "name": "Vadon",
+            "amount": 60,
+            "respawn": 5000,
+            "level": 45,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1070,
+            "name": "Kukre",
+            "amount": 50,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1141,
+            "name": "Marina",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1067,
+            "name": "Cornutus",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 48,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1161,
+            "name": "Plankton",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 40,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 10,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "iz_dun02",
+        "field_name": "Undersea Tunnel",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1067,
+            "name": "Cornutus",
+            "amount": 60,
+            "respawn": 5000,
+            "level": 48,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1144,
+            "name": "Marse",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1044,
+            "name": "Obeaune",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 53,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1264,
+            "name": "Merman",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 60,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 15,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "iz_dun03",
+        "field_name": "Undersea Tunnel",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1158,
+            "name": "Phen",
+            "amount": 45,
+            "respawn": 5000,
+            "level": 52,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1045,
+            "name": "Marc",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 56,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1069,
+            "name": "Swordfish",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 57,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1142,
+            "name": "Marine Sphere",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 51,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1264,
+            "name": "Merman",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 60,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 30,
+            "respawn": 282000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "iz_dun04",
+        "field_name": "Undersea Tunnel",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1264,
+            "name": "Merman",
+            "amount": 61,
+            "respawn": 5000,
+            "level": 60,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1065,
+            "name": "Strouf",
+            "amount": 58,
+            "respawn": 5000,
+            "level": 61,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1142,
+            "name": "Marine Sphere",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 51,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1069,
+            "name": "Swordfish",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 57,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1108,
+            "name": "Deviace",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 60,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 18,
+            "respawn": 294000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "lou_dun",
+    "map_name": "Luoyang Dungeon",
+    "dungeons": [
+      {
+        "field": "lou_dun01",
+        "field_name": "The Royal Tomb",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1381,
+            "name": "Grizzly",
+            "amount": 17,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1516,
+            "name": "Mi Gao",
+            "amount": 17,
+            "respawn": 5000,
+            "level": 83,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1129,
+            "name": "Horong",
+            "amount": 17,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1037,
+            "name": "Side Winder",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 70,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1306,
+            "name": "Leib Olmai",
+            "amount": 1,
+            "respawn": 300000,
+            "level": 118,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1083,
+            "name": "Shining Plant",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "lou_dun02",
+        "field_name": "Inside the Royal Tomb",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1512,
+            "name": "Yao Jun",
+            "amount": 56,
+            "respawn": 5000,
+            "level": 87,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1026,
+            "name": "Munak",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 58,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1191,
+            "name": "Mimic",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 56,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1514,
+            "name": "Zhu Po Long",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 82,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "lou_dun03",
+        "field_name": "Suei Long Gon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1514,
+            "name": "Zhu Po Long",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 82,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1512,
+            "name": "Yao Jun",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 87,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1513,
+            "name": "Mao Guai",
+            "amount": 18,
+            "respawn": 5000,
+            "level": 89,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1631,
+            "name": "Green Maiden",
+            "amount": 11,
+            "respawn": 5000,
+            "level": 82,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1630,
+            "name": "White Lady",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 97,
+            "element": "Wind",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "mag_dun",
+    "map_name": "Magma Dungeon",
+    "dungeons": [
+      {
+        "field": "mag_dun01",
+        "field_name": "Nogg Road",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1366,
+            "name": "Lava Golem",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 103,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1367,
+            "name": "Blazer",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 101,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1072,
+            "name": "Kaho",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1381,
+            "name": "Grizzly",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "mag_dun02",
+        "field_name": "Nogg Road",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1379,
+            "name": "Nightmare Terror",
+            "amount": 46,
+            "respawn": 5000,
+            "level": 107,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1385,
+            "name": "Deleter",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 105,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1384,
+            "name": "Deleter",
+            "amount": 38,
+            "respawn": 5000,
+            "level": 105,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1367,
+            "name": "Blazer",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 101,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1382,
+            "name": "Diabolic",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 104,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1387,
+            "name": "Gig",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "mjo_dun",
+    "map_name": "Coal Mine(Dead pit) Dungeon",
+    "dungeons": [
+      {
+        "field": "mjo_dun01",
+        "field_name": "Mjolnir Dead Pit",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1005,
+            "name": "Familiar",
+            "amount": 31,
+            "respawn": 5000,
+            "level": 24,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1145,
+            "name": "Martin",
+            "amount": 21,
+            "respawn": 5000,
+            "level": 39,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "mjo_dun02",
+        "field_name": "Mjolnir Dead Pit",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1145,
+            "name": "Martin",
+            "amount": 71,
+            "respawn": 5000,
+            "level": 39,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1121,
+            "name": "Giearth",
+            "amount": 41,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1111,
+            "name": "Drainliar",
+            "amount": 23,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1169,
+            "name": "Skeleton Worker",
+            "amount": 23,
+            "respawn": 5000,
+            "level": 44,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "mjo_dun03",
+        "field_name": "Mjolnir Dead Pit",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1169,
+            "name": "Skeleton Worker",
+            "amount": 78,
+            "respawn": 5000,
+            "level": 44,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1151,
+            "name": "Myst",
+            "amount": 39,
+            "respawn": 5000,
+            "level": 49,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1121,
+            "name": "Giearth",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 42,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1145,
+            "name": "Martin",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 39,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1209,
+            "name": "Cramp",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 82,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "pay_dun",
+    "map_name": "Payon Cave",
+    "dungeons": [
+      {
+        "field": "pay_dun00",
+        "field_name": "Payon Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1076,
+            "name": "Skeleton",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 27,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1005,
+            "name": "Familiar",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 24,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1031,
+            "name": "Poporing",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 30,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 15,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 3,
+            "respawn": 360000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "pay_dun01",
+        "field_name": "Payon Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1028,
+            "name": "Soldier Skeleton",
+            "amount": 53,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1016,
+            "name": "Archer Skeleton",
+            "amount": 32,
+            "respawn": 5000,
+            "level": 50,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1116,
+            "name": "Eggyra",
+            "amount": 16,
+            "respawn": 5000,
+            "level": 53,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1111,
+            "name": "Drainliar",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 47,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 7,
+            "respawn": 900000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 10,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "pay_dun02",
+        "field_name": "Payon Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1028,
+            "name": "Soldier Skeleton",
+            "amount": 45,
+            "respawn": 5000,
+            "level": 34,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1026,
+            "name": "Munak",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 58,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1188,
+            "name": "Bongun",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 59,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1016,
+            "name": "Archer Skeleton",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 50,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1031,
+            "name": "Poporing",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 30,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1180,
+            "name": "Nine Tail",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 72,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 31,
+            "respawn": 275000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1020,
+            "name": "Mandragora",
+            "amount": 3,
+            "respawn": 300000,
+            "level": 13,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1084,
+            "name": "Black Mushroom",
+            "amount": 8,
+            "respawn": 600000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 6,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 8,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "pay_dun03",
+        "field_name": "Payon Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1170,
+            "name": "Sohee",
+            "amount": 70,
+            "respawn": 5000,
+            "level": 64,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1277,
+            "name": "Greatest General",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 55,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1188,
+            "name": "Bongun",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 59,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1026,
+            "name": "Munak",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 58,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1180,
+            "name": "Nine Tail",
+            "amount": 2,
+            "respawn": 5000,
+            "level": 72,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1020,
+            "name": "Mandragora",
+            "amount": 10,
+            "respawn": 300000,
+            "level": 13,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1068,
+            "name": "Hydra",
+            "amount": 17,
+            "respawn": 600000,
+            "level": 34,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1185,
+            "name": "Whisper",
+            "amount": 4,
+            "respawn": 1800000,
+            "level": 34,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1186,
+            "name": "Giant Whisper",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 66,
+            "element": "Ghost",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 16,
+            "respawn": 600000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1079,
+            "name": "Blue Plant",
+            "amount": 1,
+            "respawn": 600000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1080,
+            "name": "Green Plant",
+            "amount": 1,
+            "respawn": 600000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1081,
+            "name": "Yellow Plant",
+            "amount": 1,
+            "respawn": 600000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 5,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "pay_dun04",
+        "field_name": "Payon Cave",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1110,
+            "name": "Dokebi",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 68,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1180,
+            "name": "Nine Tail",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 72,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1129,
+            "name": "Horong",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 66,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1016,
+            "name": "Archer Skeleton",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 50,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1277,
+            "name": "Greatest General",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 55,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1301,
+            "name": "Am Mut",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 141,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1290,
+            "name": "Skeleton General",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 139,
+            "element": "Undead",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1150,
+            "name": "Moonlight Flower",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 79,
+            "element": "Fire",
+            "is_boss": true,
+            "is_mvp": true
+          },
+          {
+            "id": 1307,
+            "name": "Cat o' Nine Tails",
+            "amount": 1,
+            "respawn": 3600000,
+            "level": 79,
+            "element": "Fire",
+            "is_boss": true,
+            "is_mvp": false
+          },
+          {
+            "id": 1083,
+            "name": "Shining Plant",
+            "amount": 2,
+            "respawn": 1800000,
+            "level": 1,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1078,
+            "name": "Red Plant",
+            "amount": 10,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1082,
+            "name": "White Plant",
+            "amount": 6,
+            "respawn": 180000,
+            "level": 1,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "ra_san",
+    "map_name": "Rachel Sanctuary",
+    "dungeons": [
+      {
+        "field": "ra_san01",
+        "field_name": "Holy Ground",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1772,
+            "name": "Isilla",
+            "amount": 36,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1632,
+            "name": "Gremlin",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 118,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1633,
+            "name": "Beholder",
+            "amount": 6,
+            "respawn": 5000,
+            "level": 120,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1773,
+            "name": "Hodremlin",
+            "amount": 6,
+            "respawn": 5000,
+            "level": 122,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ra_san02",
+        "field_name": "Holy Ground",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1772,
+            "name": "Isilla",
+            "amount": 110,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1771,
+            "name": "Vanberk",
+            "amount": 38,
+            "respawn": 5000,
+            "level": 123,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1632,
+            "name": "Gremlin",
+            "amount": 12,
+            "respawn": 5000,
+            "level": 118,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1633,
+            "name": "Beholder",
+            "amount": 12,
+            "respawn": 5000,
+            "level": 120,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1773,
+            "name": "Hodremlin",
+            "amount": 3,
+            "respawn": 5000,
+            "level": 122,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1774,
+            "name": "Seeker",
+            "amount": 2,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ra_san03",
+        "field_name": "Holy Ground",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1773,
+            "name": "Hodremlin",
+            "amount": 86,
+            "respawn": 5000,
+            "level": 122,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1774,
+            "name": "Seeker",
+            "amount": 57,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1632,
+            "name": "Gremlin",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 118,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1633,
+            "name": "Beholder",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 120,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ra_san04",
+        "field_name": "Holy Ground",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1770,
+            "name": "Echio",
+            "amount": 62,
+            "respawn": 5000,
+            "level": 126,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1769,
+            "name": "Agav",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 128,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1774,
+            "name": "Seeker",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1773,
+            "name": "Hodremlin",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 122,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "ra_san05",
+        "field_name": "Holy Ground",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1769,
+            "name": "Agav",
+            "amount": 84,
+            "respawn": 5000,
+            "level": 128,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1770,
+            "name": "Echio",
+            "amount": 31,
+            "respawn": 5000,
+            "level": 126,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1774,
+            "name": "Seeker",
+            "amount": 21,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1773,
+            "name": "Hodremlin",
+            "amount": 21,
+            "respawn": 5000,
+            "level": 122,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1772,
+            "name": "Isilla",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 124,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1768,
+            "name": "Gloom Under Night",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 139,
+            "element": "Ghost",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "tur_dun",
+    "map_name": "Turtle Island",
+    "dungeons": [
+      {
+        "field": "tur_dun01",
+        "field_name": "Turtle Island",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1322,
+            "name": "Spring Rabbit",
+            "amount": 25,
+            "respawn": 5000,
+            "level": 88,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1256,
+            "name": "Pest",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 89,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1034,
+            "name": "Thara Frog",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 40,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1314,
+            "name": "Permeter",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "tur_dun02",
+        "field_name": "Turtle Island Dungeon",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1316,
+            "name": "Solider",
+            "amount": 41,
+            "respawn": 5000,
+            "level": 92,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1314,
+            "name": "Permeter",
+            "amount": 41,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1319,
+            "name": "Freezer",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 94,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1256,
+            "name": "Pest",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 89,
+            "element": "Dark",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "tur_dun03",
+        "field_name": "Good Turtles Village",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1319,
+            "name": "Freezer",
+            "amount": 40,
+            "respawn": 5000,
+            "level": 94,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1315,
+            "name": "Assaulter",
+            "amount": 35,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1314,
+            "name": "Permeter",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1318,
+            "name": "Heater",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "tur_dun04",
+        "field_name": "Turtle Palace",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1315,
+            "name": "Assaulter",
+            "amount": 42,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1318,
+            "name": "Heater",
+            "amount": 33,
+            "respawn": 5000,
+            "level": 98,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1319,
+            "name": "Freezer",
+            "amount": 15,
+            "respawn": 5000,
+            "level": 94,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1314,
+            "name": "Permeter",
+            "amount": 4,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1312,
+            "name": "Turtle General",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 110,
+            "element": "Earth",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      },
+      {
+        "field": "tur_dun05",
+        "field_name": "Underground Swamp Zone",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1319,
+            "name": "Freezer",
+            "amount": 7,
+            "respawn": 5000,
+            "level": 94,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1314,
+            "name": "Permeter",
+            "amount": 4,
+            "respawn": 5000,
+            "level": 90,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1315,
+            "name": "Assaulter",
+            "amount": 1,
+            "respawn": 5000,
+            "level": 100,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "xmas_dun",
+    "map_name": "Toy Factory",
+    "dungeons": [
+      {
+        "field": "xmas_dun01",
+        "field_name": "Toy Factory Warehouse",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1246,
+            "name": "Christmas Cookie",
+            "amount": 49,
+            "respawn": 5000,
+            "level": 37,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1242,
+            "name": "Marin",
+            "amount": 24,
+            "respawn": 5000,
+            "level": 37,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1031,
+            "name": "Poporing",
+            "amount": 24,
+            "respawn": 5000,
+            "level": 30,
+            "element": "Poison",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1113,
+            "name": "Drops",
+            "amount": 12,
+            "respawn": 5000,
+            "level": 2,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1002,
+            "name": "Poring",
+            "amount": 12,
+            "respawn": 5000,
+            "level": 1,
+            "element": "Water",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1249,
+            "name": "Myst Case",
+            "amount": 6,
+            "respawn": 5000,
+            "level": 39,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1250,
+            "name": "Chepet",
+            "amount": 1,
+            "respawn": 1200000,
+            "level": 42,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1090,
+            "name": "Mastering",
+            "amount": 1,
+            "respawn": 1800000,
+            "level": 42,
+            "element": "Water",
+            "is_boss": true,
+            "is_mvp": false
+          },
+          {
+            "id": 1096,
+            "name": "Angeling",
+            "amount": 1,
+            "respawn": 3600000,
+            "level": 77,
+            "element": "Holy",
+            "is_boss": true,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "xmas_dun02",
+        "field_name": "Toy Monitoring Room",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1249,
+            "name": "Myst Case",
+            "amount": 70,
+            "respawn": 5000,
+            "level": 39,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1248,
+            "name": "Cruiser",
+            "amount": 49,
+            "respawn": 5000,
+            "level": 41,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1265,
+            "name": "Cookie",
+            "amount": 28,
+            "respawn": 5000,
+            "level": 35,
+            "element": "Neutral",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1246,
+            "name": "Christmas Cookie",
+            "amount": 28,
+            "respawn": 5000,
+            "level": 37,
+            "element": "Holy",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1251,
+            "name": "Stormy Knight",
+            "amount": 1,
+            "respawn": 14400000,
+            "level": 92,
+            "element": "Wind",
+            "is_boss": true,
+            "is_mvp": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "map_id": "um_dun",
+    "map_name": "Umbala Dungeon",
+    "dungeons": [
+      {
+        "field": "um_dun01",
+        "field_name": "Carpenter's Shop in the Tree",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": false,
+        "is_mining": false,
+        "is_safezone": false,
+        "monsters": [
+          {
+            "id": 1114,
+            "name": "Dustiness",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 62,
+            "element": "Wind",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1499,
+            "name": "Wootan Fighter",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 67,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1495,
+            "name": "Stone Shooter",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 64,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1497,
+            "name": "Wooden Golem",
+            "amount": 5,
+            "respawn": 5000,
+            "level": 72,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      },
+      {
+        "field": "um_dun02",
+        "field_name": "Passage to a Foreign World",
+        "x": 0,
+        "y": 0,
+        "width": 45,
+        "height": 45,
+        "type": "dungeon",
+        "is_pk": true,
+        "is_mining": false,
+        "monsters": [
+          {
+            "id": 1499,
+            "name": "Wootan Fighter",
+            "amount": 20,
+            "respawn": 5000,
+            "level": 67,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1498,
+            "name": "Wootan Shooter",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 67,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1493,
+            "name": "Dryad",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 68,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1497,
+            "name": "Wooden Golem",
+            "amount": 30,
+            "respawn": 5000,
+            "level": 72,
+            "element": "Earth",
+            "is_boss": false,
+            "is_mvp": false
+          },
+          {
+            "id": 1495,
+            "name": "Stone Shooter",
+            "amount": 10,
+            "respawn": 5000,
+            "level": 64,
+            "element": "Fire",
+            "is_boss": false,
+            "is_mvp": false
+          }
+        ]
+      }
+    ]
+  }
+]
