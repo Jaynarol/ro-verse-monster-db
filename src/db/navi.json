@@ -1,0 +1,1902 @@
+[
+  {
+    "mapid": "treasure01",
+    "x": 69,
+    "y": 24
+  },
+  {
+    "mapid": "pay_fild03",
+    "x": 388,
+    "y": 63
+  },
+  {
+    "mapid": "alberta_in",
+    "x": 180,
+    "y": 30
+  },
+  {
+    "mapid": "alberta",
+    "x": 102,
+    "y": 153
+  },
+  {
+    "mapid": "alde_dun02",
+    "x": 43,
+    "y": 24
+  },
+  {
+    "mapid": "c_tower2",
+    "x": 148,
+    "y": 283
+  },
+  {
+    "mapid": "c_tower1",
+    "x": 125,
+    "y": 22
+  },
+  {
+    "mapid": "alde_dun01",
+    "x": 292,
+    "y": 300
+  },
+  {
+    "mapid": "alde_dun03",
+    "x": 18,
+    "y": 267
+  },
+  {
+    "mapid": "c_tower3",
+    "x": 47,
+    "y": 41
+  },
+  {
+    "mapid": "alde_dun04",
+    "x": 268,
+    "y": 74
+  },
+  {
+    "mapid": "aldeba_in",
+    "x": 137,
+    "y": 237
+  },
+  {
+    "mapid": "aldebaran",
+    "x": 63,
+    "y": 227
+  },
+  {
+    "mapid": "mjolnir_12",
+    "x": 199,
+    "y": 375
+  },
+  {
+    "mapid": "alde_alche",
+    "x": 20,
+    "y": 175
+  },
+  {
+    "mapid": "alde_gld",
+    "x": 280,
+    "y": 160
+  },
+  {
+    "mapid": "yuno_fild01",
+    "x": 208,
+    "y": 19
+  },
+  {
+    "mapid": "anthell02",
+    "x": 34,
+    "y": 263
+  },
+  {
+    "mapid": "anthell01",
+    "x": 253,
+    "y": 35
+  },
+  {
+    "mapid": "arena_room",
+    "x": 63,
+    "y": 130
+  },
+  {
+    "mapid": "izlude",
+    "x": 128,
+    "y": 220
+  },
+  {
+    "mapid": "c_tower4",
+    "x": 73,
+    "y": 154
+  },
+  {
+    "mapid": "force_5-1",
+    "x": 25,
+    "y": 69
+  },
+  {
+    "mapid": "force_1-2",
+    "x": 37,
+    "y": 26
+  },
+  {
+    "mapid": "gef_tower",
+    "x": 153,
+    "y": 31
+  },
+  {
+    "mapid": "gef_dun01",
+    "x": 115,
+    "y": 236
+  },
+  {
+    "mapid": "gef_dun00",
+    "x": 107,
+    "y": 165
+  },
+  {
+    "mapid": "gef_dun02",
+    "x": 106,
+    "y": 132
+  },
+  {
+    "mapid": "mjolnir_06",
+    "x": 265,
+    "y": 32
+  },
+  {
+    "mapid": "prt_fild00",
+    "x": 24,
+    "y": 125
+  },
+  {
+    "mapid": "geffen",
+    "x": 213,
+    "y": 119
+  },
+  {
+    "mapid": "prt_fild04",
+    "x": 20,
+    "y": 114
+  },
+  {
+    "mapid": "gef_fild09",
+    "x": 368,
+    "y": 92
+  },
+  {
+    "mapid": "gef_fild03",
+    "x": 66,
+    "y": 379
+  },
+  {
+    "mapid": "prt_fild07",
+    "x": 21,
+    "y": 143
+  },
+  {
+    "mapid": "prt_fild10",
+    "x": 227,
+    "y": 296
+  },
+  {
+    "mapid": "prt_fild11",
+    "x": 302,
+    "y": 298
+  },
+  {
+    "mapid": "gef_fild01",
+    "x": 69,
+    "y": 20
+  },
+  {
+    "mapid": "gef_fild02",
+    "x": 17,
+    "y": 78
+  },
+  {
+    "mapid": "gef_fild10",
+    "x": 367,
+    "y": 56
+  },
+  {
+    "mapid": "mjolnir_01",
+    "x": 284,
+    "y": 21
+  },
+  {
+    "mapid": "gef_fild05",
+    "x": 361,
+    "y": 309
+  },
+  {
+    "mapid": "gef_fild04",
+    "x": 19,
+    "y": 309
+  },
+  {
+    "mapid": "gef_fild06",
+    "x": 379,
+    "y": 211
+  },
+  {
+    "mapid": "gef_fild07",
+    "x": 64,
+    "y": 360
+  },
+  {
+    "mapid": "glast_01",
+    "x": 370,
+    "y": 304
+  },
+  {
+    "mapid": "gef_fild08",
+    "x": 200,
+    "y": 352
+  },
+  {
+    "mapid": "gef_fild13",
+    "x": 41,
+    "y": 369
+  },
+  {
+    "mapid": "gef_fild12",
+    "x": 221,
+    "y": 369
+  },
+  {
+    "mapid": "gef_fild11",
+    "x": 114,
+    "y": 360
+  },
+  {
+    "mapid": "in_orcs01",
+    "x": 122,
+    "y": 171
+  },
+  {
+    "mapid": "gef_fild14",
+    "x": 367,
+    "y": 219
+  },
+  {
+    "mapid": "gefg_cas01",
+    "x": 34,
+    "y": 140
+  },
+  {
+    "mapid": "gefg_cas02",
+    "x": 70,
+    "y": 143
+  },
+  {
+    "mapid": "gefg_cas03",
+    "x": 60,
+    "y": 286
+  },
+  {
+    "mapid": "gefg_cas04",
+    "x": 24,
+    "y": 149
+  },
+  {
+    "mapid": "gefg_cas05",
+    "x": 11,
+    "y": 134
+  },
+  {
+    "mapid": "gef_fild00",
+    "x": 46,
+    "y": 199
+  },
+  {
+    "mapid": "geffen_in",
+    "x": 28,
+    "y": 110
+  },
+  {
+    "mapid": "gl_cas01",
+    "x": 144,
+    "y": 314
+  },
+  {
+    "mapid": "gl_prison",
+    "x": 14,
+    "y": 70
+  },
+  {
+    "mapid": "gl_cas02",
+    "x": 104,
+    "y": 25
+  },
+  {
+    "mapid": "gl_chyard",
+    "x": 147,
+    "y": 284
+  },
+  {
+    "mapid": "gl_sew02",
+    "x": 29,
+    "y": 270
+  },
+  {
+    "mapid": "gl_church",
+    "x": 295,
+    "y": 46
+  },
+  {
+    "mapid": "gl_sew04",
+    "x": 101,
+    "y": 78
+  },
+  {
+    "mapid": "gl_dun02",
+    "x": 224,
+    "y": 274
+  },
+  {
+    "mapid": "gl_dun01",
+    "x": 225,
+    "y": 22
+  },
+  {
+    "mapid": "gl_knt01",
+    "x": 123,
+    "y": 292
+  },
+  {
+    "mapid": "gl_knt02",
+    "x": 15,
+    "y": 140
+  },
+  {
+    "mapid": "gl_prison1",
+    "x": 150,
+    "y": 14
+  },
+  {
+    "mapid": "gl_sew01",
+    "x": 258,
+    "y": 255
+  },
+  {
+    "mapid": "gl_step",
+    "x": 117,
+    "y": 124
+  },
+  {
+    "mapid": "gl_sew03",
+    "x": 171,
+    "y": 283
+  },
+  {
+    "mapid": "gl_in01",
+    "x": 77,
+    "y": 68
+  },
+  {
+    "mapid": "pay_fild10",
+    "x": 143,
+    "y": 250
+  },
+  {
+    "mapid": "moc_fild16",
+    "x": 205,
+    "y": 291
+  },
+  {
+    "mapid": "orcsdun01",
+    "x": 32,
+    "y": 170
+  },
+  {
+    "mapid": "orcsdun02",
+    "x": 180,
+    "y": 17
+  },
+  {
+    "mapid": "moc_fild19",
+    "x": 100,
+    "y": 99
+  },
+  {
+    "mapid": "in_sphinx2",
+    "x": 149,
+    "y": 81
+  },
+  {
+    "mapid": "in_sphinx1",
+    "x": 80,
+    "y": 189
+  },
+  {
+    "mapid": "in_sphinx3",
+    "x": 210,
+    "y": 54
+  },
+  {
+    "mapid": "in_sphinx4",
+    "x": 10,
+    "y": 222
+  },
+  {
+    "mapid": "in_sphinx5",
+    "x": 100,
+    "y": 99
+  },
+  {
+    "mapid": "izlu2dun",
+    "x": 108,
+    "y": 88
+  },
+  {
+    "mapid": "iz_dun01",
+    "x": 253,
+    "y": 252
+  },
+  {
+    "mapid": "iz_dun02",
+    "x": 236,
+    "y": 204
+  },
+  {
+    "mapid": "iz_dun00",
+    "x": 352,
+    "y": 337
+  },
+  {
+    "mapid": "iz_dun03",
+    "x": 32,
+    "y": 63
+  },
+  {
+    "mapid": "iz_dun04",
+    "x": 26,
+    "y": 27
+  },
+  {
+    "mapid": "izlude_in",
+    "x": 65,
+    "y": 87
+  },
+  {
+    "mapid": "prt_fild08",
+    "x": 367,
+    "y": 212
+  },
+  {
+    "mapid": "moc_ruins",
+    "x": 145,
+    "y": 117
+  },
+  {
+    "mapid": "mjo_dun02",
+    "x": 381,
+    "y": 343
+  },
+  {
+    "mapid": "mjolnir_02",
+    "x": 79,
+    "y": 363
+  },
+  {
+    "mapid": "mjo_dun03",
+    "x": 302,
+    "y": 262
+  },
+  {
+    "mapid": "mjo_dun01",
+    "x": 17,
+    "y": 283
+  },
+  {
+    "mapid": "mjolnir_03",
+    "x": 24,
+    "y": 258
+  },
+  {
+    "mapid": "mjolnir_07",
+    "x": 214,
+    "y": 380
+  },
+  {
+    "mapid": "mjolnir_04",
+    "x": 125,
+    "y": 208
+  },
+  {
+    "mapid": "mjolnir_08",
+    "x": 159,
+    "y": 370
+  },
+  {
+    "mapid": "mjolnir_05",
+    "x": 19,
+    "y": 171
+  },
+  {
+    "mapid": "mjolnir_10",
+    "x": 235,
+    "y": 378
+  },
+  {
+    "mapid": "mjolnir_09",
+    "x": 196,
+    "y": 364
+  },
+  {
+    "mapid": "prt_fild05",
+    "x": 105,
+    "y": 378
+  },
+  {
+    "mapid": "prt_fild01",
+    "x": 23,
+    "y": 292
+  },
+  {
+    "mapid": "mjolnir_11",
+    "x": 23,
+    "y": 220
+  },
+  {
+    "mapid": "prt_fild02",
+    "x": 173,
+    "y": 379
+  },
+  {
+    "mapid": "prt_maze01",
+    "x": 17,
+    "y": 111
+  },
+  {
+    "mapid": "moc_fild04",
+    "x": 317,
+    "y": 376
+  },
+  {
+    "mapid": "prt_fild09",
+    "x": 380,
+    "y": 237
+  },
+  {
+    "mapid": "moc_fild02",
+    "x": 77,
+    "y": 338
+  },
+  {
+    "mapid": "pay_fild04",
+    "x": 20,
+    "y": 165
+  },
+  {
+    "mapid": "pay_gld",
+    "x": 20,
+    "y": 276
+  },
+  {
+    "mapid": "moc_fild13",
+    "x": 298,
+    "y": 367
+  },
+  {
+    "mapid": "moc_fild03",
+    "x": 70,
+    "y": 336
+  },
+  {
+    "mapid": "moc_fild01",
+    "x": 315,
+    "y": 25
+  },
+  {
+    "mapid": "pay_fild11",
+    "x": 38,
+    "y": 327
+  },
+  {
+    "mapid": "pay_fild01",
+    "x": 17,
+    "y": 152
+  },
+  {
+    "mapid": "moc_fild05",
+    "x": 378,
+    "y": 119
+  },
+  {
+    "mapid": "moc_fild08",
+    "x": 170,
+    "y": 380
+  },
+  {
+    "mapid": "moc_fild06",
+    "x": 367,
+    "y": 317
+  },
+  {
+    "mapid": "moc_fild09",
+    "x": 267,
+    "y": 368
+  },
+  {
+    "mapid": "moc_fild07",
+    "x": 378,
+    "y": 201
+  },
+  {
+    "mapid": "moc_fild10",
+    "x": 208,
+    "y": 295
+  },
+  {
+    "mapid": "morocc",
+    "x": 160,
+    "y": 294
+  },
+  {
+    "mapid": "moc_fild14",
+    "x": 196,
+    "y": 379
+  },
+  {
+    "mapid": "moc_fild15",
+    "x": 158,
+    "y": 360
+  },
+  {
+    "mapid": "moc_fild11",
+    "x": 189,
+    "y": 360
+  },
+  {
+    "mapid": "moc_fild17",
+    "x": 218,
+    "y": 366
+  },
+  {
+    "mapid": "moc_fild12",
+    "x": 286,
+    "y": 168
+  },
+  {
+    "mapid": "moc_fild18",
+    "x": 158,
+    "y": 379
+  },
+  {
+    "mapid": "in_moc_16",
+    "x": 18,
+    "y": 11
+  },
+  {
+    "mapid": "cmd_fild09",
+    "x": 363,
+    "y": 164
+  },
+  {
+    "mapid": "moc_pryd02",
+    "x": 10,
+    "y": 192
+  },
+  {
+    "mapid": "moc_prydb1",
+    "x": 100,
+    "y": 185
+  },
+  {
+    "mapid": "moc_pryd01",
+    "x": 10,
+    "y": 192
+  },
+  {
+    "mapid": "moc_pryd03",
+    "x": 100,
+    "y": 92
+  },
+  {
+    "mapid": "moc_pryd04",
+    "x": 12,
+    "y": 18
+  },
+  {
+    "mapid": "moc_pryd06",
+    "x": 192,
+    "y": 10
+  },
+  {
+    "mapid": "moc_pryd05",
+    "x": 220,
+    "y": 9
+  },
+  {
+    "mapid": "monk_in",
+    "x": 161,
+    "y": 38
+  },
+  {
+    "mapid": "prt_monk",
+    "x": 245,
+    "y": 139
+  },
+  {
+    "mapid": "morocc_in",
+    "x": 83,
+    "y": 92
+  },
+  {
+    "mapid": "new_1-2",
+    "x": 100,
+    "y": 9
+  },
+  {
+    "mapid": "new_1-1",
+    "x": 144,
+    "y": 112
+  },
+  {
+    "mapid": "new_2-2",
+    "x": 100,
+    "y": 9
+  },
+  {
+    "mapid": "new_2-1",
+    "x": 144,
+    "y": 112
+  },
+  {
+    "mapid": "new_3-2",
+    "x": 100,
+    "y": 9
+  },
+  {
+    "mapid": "new_3-1",
+    "x": 144,
+    "y": 112
+  },
+  {
+    "mapid": "new_4-2",
+    "x": 100,
+    "y": 9
+  },
+  {
+    "mapid": "new_4-1",
+    "x": 144,
+    "y": 112
+  },
+  {
+    "mapid": "new_5-2",
+    "x": 100,
+    "y": 9
+  },
+  {
+    "mapid": "new_5-1",
+    "x": 144,
+    "y": 112
+  },
+  {
+    "mapid": "ordeal_1-1",
+    "x": 128,
+    "y": 150
+  },
+  {
+    "mapid": "ordeal_1-2",
+    "x": 24,
+    "y": 154
+  },
+  {
+    "mapid": "ordeal_2-1",
+    "x": 128,
+    "y": 150
+  },
+  {
+    "mapid": "ordeal_2-2",
+    "x": 24,
+    "y": 154
+  },
+  {
+    "mapid": "ordeal_3-1",
+    "x": 128,
+    "y": 150
+  },
+  {
+    "mapid": "ordeal_3-2",
+    "x": 24,
+    "y": 154
+  },
+  {
+    "mapid": "payon",
+    "x": 228,
+    "y": 326
+  },
+  {
+    "mapid": "pay_dun00",
+    "x": 21,
+    "y": 183
+  },
+  {
+    "mapid": "payon_in02",
+    "x": 82,
+    "y": 41
+  },
+  {
+    "mapid": "pay_dun01",
+    "x": 19,
+    "y": 33
+  },
+  {
+    "mapid": "pay_arche",
+    "x": 39,
+    "y": 131
+  },
+  {
+    "mapid": "pay_dun02",
+    "x": 19,
+    "y": 63
+  },
+  {
+    "mapid": "pay_dun03",
+    "x": 155,
+    "y": 159
+  },
+  {
+    "mapid": "pay_fild02",
+    "x": 83,
+    "y": 382
+  },
+  {
+    "mapid": "pay_fild07",
+    "x": 23,
+    "y": 207
+  },
+  {
+    "mapid": "pay_fild06",
+    "x": 305,
+    "y": 372
+  },
+  {
+    "mapid": "pay_fild08",
+    "x": 160,
+    "y": 19
+  },
+  {
+    "mapid": "pay_fild09",
+    "x": 19,
+    "y": 91
+  },
+  {
+    "mapid": "prt_in",
+    "x": 240,
+    "y": 139
+  },
+  {
+    "mapid": "prt_church",
+    "x": 100,
+    "y": 60
+  },
+  {
+    "mapid": "prt_fild06",
+    "x": 27,
+    "y": 193
+  },
+  {
+    "mapid": "prt_castle",
+    "x": 102,
+    "y": 20
+  },
+  {
+    "mapid": "prontera",
+    "x": 156,
+    "y": 356
+  },
+  {
+    "mapid": "prt_gld",
+    "x": 159,
+    "y": 28
+  },
+  {
+    "mapid": "prt_fild03",
+    "x": 23,
+    "y": 249
+  },
+  {
+    "mapid": "prt_maze02",
+    "x": 93,
+    "y": 20
+  },
+  {
+    "mapid": "prt_maze03",
+    "x": 182,
+    "y": 88
+  },
+  {
+    "mapid": "monk_test",
+    "x": 329,
+    "y": 50
+  },
+  {
+    "mapid": "prt_sewb2",
+    "x": 19,
+    "y": 19
+  },
+  {
+    "mapid": "prt_sewb3",
+    "x": 180,
+    "y": 169
+  },
+  {
+    "mapid": "prt_sewb1",
+    "x": 192,
+    "y": 247
+  },
+  {
+    "mapid": "prt_sewb4",
+    "x": 100,
+    "y": 92
+  },
+  {
+    "mapid": "pvp_n_8-4",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "mapid": "treasure02",
+    "x": 102,
+    "y": 27
+  },
+  {
+    "mapid": "alb2trea",
+    "x": 85,
+    "y": 107
+  },
+  {
+    "mapid": "xmas_fild01",
+    "x": 80,
+    "y": 248
+  },
+  {
+    "mapid": "xmas_in",
+    "x": 43,
+    "y": 33
+  },
+  {
+    "mapid": "xmas_dun01",
+    "x": 205,
+    "y": 16
+  },
+  {
+    "mapid": "xmas",
+    "x": 143,
+    "y": 311
+  },
+  {
+    "mapid": "xmas_dun02",
+    "x": 131,
+    "y": 130
+  },
+  {
+    "mapid": "comodo",
+    "x": 31,
+    "y": 215
+  },
+  {
+    "mapid": "um_fild01",
+    "x": 35,
+    "y": 276
+  },
+  {
+    "mapid": "cmd_fild01",
+    "x": 30,
+    "y": 317
+  },
+  {
+    "mapid": "beach_dun3",
+    "x": 281,
+    "y": 56
+  },
+  {
+    "mapid": "um_fild03",
+    "x": 114,
+    "y": 53
+  },
+  {
+    "mapid": "cmd_fild02",
+    "x": 222,
+    "y": 372
+  },
+  {
+    "mapid": "cmd_fild03",
+    "x": 27,
+    "y": 68
+  },
+  {
+    "mapid": "cmd_fild04",
+    "x": 25,
+    "y": 275
+  },
+  {
+    "mapid": "cmd_fild05",
+    "x": 26,
+    "y": 161
+  },
+  {
+    "mapid": "cmd_fild06",
+    "x": 26,
+    "y": 288
+  },
+  {
+    "mapid": "cmd_fild07",
+    "x": 147,
+    "y": 370
+  },
+  {
+    "mapid": "cmd_fild08",
+    "x": 25,
+    "y": 102
+  },
+  {
+    "mapid": "in_rogue",
+    "x": 379,
+    "y": 46
+  },
+  {
+    "mapid": "cmd_in02",
+    "x": 97,
+    "y": 211
+  },
+  {
+    "mapid": "cmd_in01",
+    "x": 85,
+    "y": 174
+  },
+  {
+    "mapid": "beach_dun",
+    "x": 266,
+    "y": 67
+  },
+  {
+    "mapid": "beach_dun2",
+    "x": 154,
+    "y": 25
+  },
+  {
+    "mapid": "tur_dun02",
+    "x": 148,
+    "y": 264
+  },
+  {
+    "mapid": "tur_dun01",
+    "x": 154,
+    "y": 237
+  },
+  {
+    "mapid": "tur_dun03",
+    "x": 132,
+    "y": 189
+  },
+  {
+    "mapid": "tur_dun04",
+    "x": 100,
+    "y": 192
+  },
+  {
+    "mapid": "aldeg_cas01",
+    "x": 34,
+    "y": 248
+  },
+  {
+    "mapid": "aldeg_cas02",
+    "x": 88,
+    "y": 163
+  },
+  {
+    "mapid": "aldeg_cas03",
+    "x": 114,
+    "y": 286
+  },
+  {
+    "mapid": "aldeg_cas04",
+    "x": 149,
+    "y": 17
+  },
+  {
+    "mapid": "aldeg_cas05",
+    "x": 216,
+    "y": 103
+  },
+  {
+    "mapid": "job_sword1",
+    "x": 11,
+    "y": 206
+  },
+  {
+    "mapid": "payg_cas01",
+    "x": 214,
+    "y": 48
+  },
+  {
+    "mapid": "payg_cas02",
+    "x": 272,
+    "y": 57
+  },
+  {
+    "mapid": "payg_cas03",
+    "x": 226,
+    "y": 26
+  },
+  {
+    "mapid": "payg_cas04",
+    "x": 252,
+    "y": 271
+  },
+  {
+    "mapid": "payg_cas05",
+    "x": 62,
+    "y": 227
+  },
+  {
+    "mapid": "prtg_cas01",
+    "x": 99,
+    "y": 32
+  },
+  {
+    "mapid": "prtg_cas02",
+    "x": 43,
+    "y": 229
+  },
+  {
+    "mapid": "prtg_cas03",
+    "x": 168,
+    "y": 12
+  },
+  {
+    "mapid": "prtg_cas04",
+    "x": 86,
+    "y": 13
+  },
+  {
+    "mapid": "prtg_cas05",
+    "x": 17,
+    "y": 235
+  },
+  {
+    "mapid": "yuno_fild03",
+    "x": 34,
+    "y": 139
+  },
+  {
+    "mapid": "mag_dun02",
+    "x": 47,
+    "y": 30
+  },
+  {
+    "mapid": "mag_dun01",
+    "x": 242,
+    "y": 239
+  },
+  {
+    "mapid": "yuno_fild04",
+    "x": 231,
+    "y": 284
+  },
+  {
+    "mapid": "yuno_in01",
+    "x": 116,
+    "y": 37
+  },
+  {
+    "mapid": "yuno_in04",
+    "x": 33,
+    "y": 127
+  },
+  {
+    "mapid": "yuno_in03",
+    "x": 167,
+    "y": 22
+  },
+  {
+    "mapid": "yuno_in02",
+    "x": 168,
+    "y": 61
+  },
+  {
+    "mapid": "yuno_pre",
+    "x": 69,
+    "y": 13
+  },
+  {
+    "mapid": "y_airport",
+    "x": 143,
+    "y": 23
+  },
+  {
+    "mapid": "airplane_01",
+    "x": 244,
+    "y": 58
+  },
+  {
+    "mapid": "airplane",
+    "x": 244,
+    "y": 58
+  },
+  {
+    "mapid": "que_god01",
+    "x": 99,
+    "y": 84
+  },
+  {
+    "mapid": "yuno_fild12",
+    "x": 373,
+    "y": 239
+  },
+  {
+    "mapid": "yuno_fild09",
+    "x": 70,
+    "y": 19
+  },
+  {
+    "mapid": "yuno_fild08",
+    "x": 74,
+    "y": 374
+  },
+  {
+    "mapid": "hu_fild04",
+    "x": 121,
+    "y": 28
+  },
+  {
+    "mapid": "hu_fild07",
+    "x": 37,
+    "y": 351
+  },
+  {
+    "mapid": "yuno_fild02",
+    "x": 20,
+    "y": 337
+  },
+  {
+    "mapid": "yuno_fild07",
+    "x": 179,
+    "y": 352
+  },
+  {
+    "mapid": "yuno_fild06",
+    "x": 217,
+    "y": 29
+  },
+  {
+    "mapid": "ein_fild06",
+    "x": 252,
+    "y": 363
+  },
+  {
+    "mapid": "ein_fild02",
+    "x": 350,
+    "y": 250
+  },
+  {
+    "mapid": "yuno",
+    "x": 158,
+    "y": 17
+  },
+  {
+    "mapid": "yuno_fild05",
+    "x": 59,
+    "y": 30
+  },
+  {
+    "mapid": "yuno_in05",
+    "x": 50,
+    "y": 85
+  },
+  {
+    "mapid": "ama_dun02",
+    "x": 33,
+    "y": 40
+  },
+  {
+    "mapid": "ama_dun01",
+    "x": 232,
+    "y": 144
+  },
+  {
+    "mapid": "ama_dun03",
+    "x": 120,
+    "y": 12
+  },
+  {
+    "mapid": "amatsu",
+    "x": 248,
+    "y": 289
+  },
+  {
+    "mapid": "ama_in01",
+    "x": 175,
+    "y": 174
+  },
+  {
+    "mapid": "ama_fild01",
+    "x": 174,
+    "y": 328
+  },
+  {
+    "mapid": "ama_in02",
+    "x": 195,
+    "y": 41
+  },
+  {
+    "mapid": "gonryun",
+    "x": 159,
+    "y": 198
+  },
+  {
+    "mapid": "gon_dun02",
+    "x": 17,
+    "y": 113
+  },
+  {
+    "mapid": "gon_dun01",
+    "x": 162,
+    "y": 270
+  },
+  {
+    "mapid": "gon_dun03",
+    "x": 68,
+    "y": 9
+  },
+  {
+    "mapid": "gon_in",
+    "x": 189,
+    "y": 107
+  },
+  {
+    "mapid": "gon_fild01",
+    "x": 191,
+    "y": 261
+  },
+  {
+    "mapid": "um_in",
+    "x": 38,
+    "y": 113
+  },
+  {
+    "mapid": "um_fild04",
+    "x": 215,
+    "y": 336
+  },
+  {
+    "mapid": "um_dun01",
+    "x": 42,
+    "y": 30
+  },
+  {
+    "mapid": "umbala",
+    "x": 109,
+    "y": 284
+  },
+  {
+    "mapid": "um_dun02",
+    "x": 52,
+    "y": 22
+  },
+  {
+    "mapid": "yggdrasil01",
+    "x": 40,
+    "y": 63
+  },
+  {
+    "mapid": "um_fild02",
+    "x": 25,
+    "y": 272
+  },
+  {
+    "mapid": "nif_fild02",
+    "x": 376,
+    "y": 235
+  },
+  {
+    "mapid": "nif_in",
+    "x": 14,
+    "y": 88
+  },
+  {
+    "mapid": "nif_fild01",
+    "x": 343,
+    "y": 322
+  },
+  {
+    "mapid": "niflheim",
+    "x": 20,
+    "y": 153
+  },
+  {
+    "mapid": "himinn",
+    "x": 49,
+    "y": 75
+  },
+  {
+    "mapid": "louyang",
+    "x": 218,
+    "y": 252
+  },
+  {
+    "mapid": "lou_in01",
+    "x": 122,
+    "y": 141
+  },
+  {
+    "mapid": "lou_in02",
+    "x": 41,
+    "y": 138
+  },
+  {
+    "mapid": "lou_dun02",
+    "x": 165,
+    "y": 266
+  },
+  {
+    "mapid": "lou_dun01",
+    "x": 38,
+    "y": 203
+  },
+  {
+    "mapid": "lou_dun03",
+    "x": 165,
+    "y": 38
+  },
+  {
+    "mapid": "lou_fild01",
+    "x": 233,
+    "y": 353
+  },
+  {
+    "mapid": "jawaii_in",
+    "x": 28,
+    "y": 94
+  },
+  {
+    "mapid": "jawaii",
+    "x": 115,
+    "y": 172
+  },
+  {
+    "mapid": "gefenia04",
+    "x": 283,
+    "y": 95
+  },
+  {
+    "mapid": "gefenia02",
+    "x": 203,
+    "y": 34
+  },
+  {
+    "mapid": "gefenia03",
+    "x": 266,
+    "y": 168
+  },
+  {
+    "mapid": "gefenia01",
+    "x": 199,
+    "y": 266
+  },
+  {
+    "mapid": "payon_in01",
+    "x": 175,
+    "y": 11
+  },
+  {
+    "mapid": "payon_in03",
+    "x": 98,
+    "y": 117
+  },
+  {
+    "mapid": "ayo_in01",
+    "x": 43,
+    "y": 183
+  },
+  {
+    "mapid": "ayo_in02",
+    "x": 100,
+    "y": 152
+  },
+  {
+    "mapid": "ayo_fild01",
+    "x": 37,
+    "y": 241
+  },
+  {
+    "mapid": "ayothaya",
+    "x": 132,
+    "y": 99
+  },
+  {
+    "mapid": "ayo_dun01",
+    "x": 275,
+    "y": 18
+  },
+  {
+    "mapid": "ayo_fild02",
+    "x": 279,
+    "y": 150
+  },
+  {
+    "mapid": "ein_fild01",
+    "x": 345,
+    "y": 367
+  },
+  {
+    "mapid": "jupe_cave",
+    "x": 143,
+    "y": 52
+  },
+  {
+    "mapid": "yuno_fild11",
+    "x": 92,
+    "y": 369
+  },
+  {
+    "mapid": "yuno_fild10",
+    "x": 44,
+    "y": 183
+  },
+  {
+    "mapid": "ein_fild07",
+    "x": 380,
+    "y": 263
+  },
+  {
+    "mapid": "einbroch",
+    "x": 62,
+    "y": 246
+  },
+  {
+    "mapid": "airport",
+    "x": 19,
+    "y": 21
+  },
+  {
+    "mapid": "ein_in01",
+    "x": 190,
+    "y": 35
+  },
+  {
+    "mapid": "ein_dun01",
+    "x": 22,
+    "y": 14
+  },
+  {
+    "mapid": "ein_fild09",
+    "x": 74,
+    "y": 350
+  },
+  {
+    "mapid": "ein_fild04",
+    "x": 184,
+    "y": 31
+  },
+  {
+    "mapid": "ein_fild08",
+    "x": 164,
+    "y": 377
+  },
+  {
+    "mapid": "einbech",
+    "x": 138,
+    "y": 249
+  },
+  {
+    "mapid": "ein_dun02",
+    "x": 291,
+    "y": 292
+  },
+  {
+    "mapid": "ein_fild05",
+    "x": 371,
+    "y": 183
+  },
+  {
+    "mapid": "ein_fild10",
+    "x": 194,
+    "y": 370
+  },
+  {
+    "mapid": "lhz_fild03",
+    "x": 361,
+    "y": 283
+  },
+  {
+    "mapid": "lhz_fild02",
+    "x": 166,
+    "y": 365
+  },
+  {
+    "mapid": "ein_fild03",
+    "x": 361,
+    "y": 257
+  },
+  {
+    "mapid": "lhz_fild01",
+    "x": 361,
+    "y": 222
+  },
+  {
+    "mapid": "lighthalzen",
+    "x": 214,
+    "y": 324
+  },
+  {
+    "mapid": "lhz_in01",
+    "x": 111,
+    "y": 126
+  },
+  {
+    "mapid": "lhz_in02",
+    "x": 39,
+    "y": 28
+  },
+  {
+    "mapid": "lhz_in03",
+    "x": 241,
+    "y": 100
+  },
+  {
+    "mapid": "lhz_airport",
+    "x": 143,
+    "y": 15
+  },
+  {
+    "mapid": "jupe_gate",
+    "x": 31,
+    "y": 145
+  },
+  {
+    "mapid": "jupe_area1",
+    "x": 100,
+    "y": 222
+  },
+  {
+    "mapid": "jupe_area2",
+    "x": 63,
+    "y": 222
+  },
+  {
+    "mapid": "jupe_ele_r",
+    "x": 49,
+    "y": 30
+  },
+  {
+    "mapid": "juperos_01",
+    "x": 53,
+    "y": 247
+  },
+  {
+    "mapid": "hu_fild05",
+    "x": 91,
+    "y": 44
+  },
+  {
+    "mapid": "hu_fild03",
+    "x": 288,
+    "y": 26
+  },
+  {
+    "mapid": "hu_fild06",
+    "x": 34,
+    "y": 119
+  },
+  {
+    "mapid": "hu_fild02",
+    "x": 40,
+    "y": 27
+  },
+  {
+    "mapid": "hu_fild01",
+    "x": 139,
+    "y": 37
+  },
+  {
+    "mapid": "tha_t08",
+    "x": 28,
+    "y": 43
+  },
+  {
+    "mapid": "tha_t07",
+    "x": 30,
+    "y": 166
+  },
+  {
+    "mapid": "tha_t09",
+    "x": 20,
+    "y": 96
+  },
+  {
+    "mapid": "tha_t10",
+    "x": 155,
+    "y": 100
+  },
+  {
+    "mapid": "tha_t11",
+    "x": 50,
+    "y": 17
+  },
+  {
+    "mapid": "tha_t12",
+    "x": 115,
+    "y": 16
+  },
+  {
+    "mapid": "tha_scene01",
+    "x": 131,
+    "y": 220
+  },
+  {
+    "mapid": "tha_t01",
+    "x": 149,
+    "y": 38
+  },
+  {
+    "mapid": "tha_t02",
+    "x": 149,
+    "y": 130
+  },
+  {
+    "mapid": "tha_t04",
+    "x": 60,
+    "y": 142
+  },
+  {
+    "mapid": "tha_t05",
+    "x": 62,
+    "y": 8
+  },
+  {
+    "mapid": "tha_t03",
+    "x": 59,
+    "y": 135
+  },
+  {
+    "mapid": "thana_step",
+    "x": 69,
+    "y": 287
+  },
+  {
+    "mapid": "tha_t06",
+    "x": 206,
+    "y": 11
+  },
+  {
+    "mapid": "hu_in01",
+    "x": 211,
+    "y": 177
+  },
+  {
+    "mapid": "hugel",
+    "x": 159,
+    "y": 114
+  },
+  {
+    "mapid": "1@hiddens",
+    "x": 175,
+    "y": 48
+  },
+  {
+    "mapid": "2@hiddens",
+    "x": 175,
+    "y": 48
+  },
+  {
+    "mapid": "3@hiddens",
+    "x": 175,
+    "y": 48
+  },
+  {
+    "mapid": "4@hiddens",
+    "x": 175,
+    "y": 48
+  },
+  {
+    "mapid": "ra_fild01",
+    "x": 145,
+    "y": 162
+  },
+  {
+    "mapid": "ra_fild03",
+    "x": 212,
+    "y": 249
+  },
+  {
+    "mapid": "ra_fild04",
+    "x": 164,
+    "y": 146
+  },
+  {
+    "mapid": "ra_fild05",
+    "x": 118,
+    "y": 334
+  },
+  {
+    "mapid": "ra_fild06",
+    "x": 21,
+    "y": 261
+  },
+  {
+    "mapid": "ra_fild08",
+    "x": 256,
+    "y": 173
+  },
+  {
+    "mapid": "ra_fild12",
+    "x": 100,
+    "y": 74
+  },
+  {
+    "mapid": "ra_temple",
+    "x": 156,
+    "y": 106
+  },
+  {
+    "mapid": "rachel",
+    "x": 66,
+    "y": 47
+  },
+  {
+    "mapid": "gld_dun01",
+    "x": 80,
+    "y": 51
+  },
+  {
+    "mapid": "gld_dun02",
+    "x": 37,
+    "y": 77
+  },
+  {
+    "mapid": "gld_dun03",
+    "x": 229,
+    "y": 99
+  },
+  {
+    "mapid": "gld_dun04",
+    "x": 130,
+    "y": 244
+  },
+  {
+    "mapid": "ice_dun01",
+    "x": 129,
+    "y": 284
+  },
+  {
+    "mapid": "ice_dun02",
+    "x": 45,
+    "y": 274
+  },
+  {
+    "mapid": "ice_dun03",
+    "x": 95,
+    "y": 182
+  },
+  {
+    "mapid": "ra_san01",
+    "x": 69,
+    "y": 140
+  },
+  {
+    "mapid": "ra_san02",
+    "x": 94,
+    "y": 174
+  },
+  {
+    "mapid": "ra_san03",
+    "x": 287,
+    "y": 209
+  },
+  {
+    "mapid": "ra_san04",
+    "x": 183,
+    "y": 102
+  },
+  {
+    "mapid": "ra_san05",
+    "x": 162,
+    "y": 196
+  }
+]

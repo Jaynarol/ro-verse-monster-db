@@ -6,7 +6,7 @@ import '@/styles/global.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '[Ro Verse] Monster Database - Jaynarol',
+  title: 'Monster Loots Search [Ragnarok Landverse] - Jaynarol',
 }
 
 const RootLayout: FC<PropsWithChildren> = ({ children }) => (
