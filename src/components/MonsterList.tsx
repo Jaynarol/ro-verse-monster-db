@@ -5,7 +5,7 @@ import { getSureFree, getSureHit, getType } from '@/utils/stats-cals'
 import Link from 'next/link'
 
 const MonsterList = () => {
-  const { monsters } = useMonster()
+  const { monsters, filterItemIds } = useMonster()
 
   return (
     <ul
@@ -17,7 +17,7 @@ const MonsterList = () => {
           key={monster.id}
           className="col-span-1 divide-y divide-gray-200 rounded-lg bg-white shadow"
         >
-          <div className="flex w-full items-center justify-between space-x-6 p-6">
+          <div className="flex w-full items-start justify-between space-x-6 p-6">
             <div className="flex-1 truncate">
               <div className="flex items-center space-x-3">
                 <h3 className="truncate text-sm font-medium text-gray-900">
@@ -27,16 +27,18 @@ const MonsterList = () => {
                   {getType(monster)}
                 </span>
               </div>
-              <p className="mb-3 mt-1 truncate text-sm text-gray-500">
-                {monster.element} | {monster.race} | {monster.size}
-              </p>
-              <div className="grid grid-cols-2 gap-1 text-sm text-gray-500">
-                <span>Lv: {monster.level}</span>
-                <span>HP: {Math.ceil(monster.hp).toLocaleString()}</span>
-                <span>Hit: {getSureHit(monster)}</span>
-                <span>Free: {getSureFree(monster)}</span>
-                <span>Exp: {monster.base_exp}</span>
-                <span>Job: {monster.job_exp}</span>
+              <div className="text-sm text-gray-500">
+                <p className="mb-3 mt-1 truncate">
+                  {monster.element} | {monster.race} | {monster.size}
+                </p>
+                <div className="grid grid-cols-2 gap-1">
+                  <span>Lv: {monster.level}</span>
+                  <span>HP: {Math.ceil(monster.hp).toLocaleString()}</span>
+                  <span>Hit: {getSureHit(monster)}</span>
+                  <span>Free: {getSureFree(monster)}</span>
+                  <span>Exp: {monster.base_exp}</span>
+                  <span>Job: {monster.job_exp}</span>
+                </div>
               </div>
             </div>
             <img
@@ -45,6 +47,29 @@ const MonsterList = () => {
               alt=""
             />
           </div>
+
+          {filterItemIds.length > 0 && (
+            <div className="p-2 text-xs">
+              <div className="flex flex-wrap gap-2">
+                {monster.drops
+                  .filter((drop) => filterItemIds.includes(drop.item_id))
+                  .map((drop) => (
+                    <div
+                      className="flex items-center justify-center rounded-md bg-gray-500 py-1 pl-1 pr-2 text-white"
+                      key={drop.item_id}
+                    >
+                      <img
+                        src={`https://cdn.maxion.gg/landverse/image/item/${drop.item_id}.png`}
+                        alt={drop.item_name}
+                      />
+                      <span>{drop.item_name}</span>
+                      <span className="ml-2">{drop.rate / 100}%</span>
+                    </div>
+                  ))}
+              </div>
+            </div>
+          )}
+
           <div>
             <div className="-mt-px flex divide-x divide-gray-200">
               <div className="flex w-0 flex-1">
