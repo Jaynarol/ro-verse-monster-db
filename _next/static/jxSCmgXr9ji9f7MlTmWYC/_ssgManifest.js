@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fmonster\u002F[monster_id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
